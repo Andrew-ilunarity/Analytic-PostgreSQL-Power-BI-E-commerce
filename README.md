@@ -48,3 +48,16 @@
 Ви завжди можете завантажити файл з папки `Dashboard`, відкрити його в Power BI Desktop та перевірити його працездатність, інтерактивність і логіку налаштування мір на реальних даних.
 
 Також повну структуру бази даних, скрипти розгортання таблиць та готові `SQL` коди для всіх аналітичних поглядів можна знайти у відповідних папках цього репозиторію.
+
+<img width="483" height="272" alt="image" src="https://github.com/user-attachments/assets/951542d5-da05-4497-8c0a-8c0db196a521" />
+<img width="481" height="273" alt="image" src="https://github.com/user-attachments/assets/503eb181-4881-4e1e-b143-7a83accceeef" />
+<img width="481" height="274" alt="image" src="https://github.com/user-attachments/assets/c6b36fc7-3b84-4485-b9ac-c458543106e3" />
+<img width="485" height="272" alt="image" src="https://github.com/user-attachments/assets/6954dfea-ddd0-4bed-904e-41109cd038df" />
+<img width="480" height="271" alt="image" src="https://github.com/user-attachments/assets/39983861-f098-474d-b5e7-055a6913270d" />
+<img width="482" height="270" alt="image" src="https://github.com/user-attachments/assets/7657cec1-2bfc-4fb2-ad18-f06198ffcf2f" />
+
+
+
+
+
+
